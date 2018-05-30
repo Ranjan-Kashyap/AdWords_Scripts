@@ -49,7 +49,7 @@ function main() {
   // The URL of the Google Doc the results will be put into.
   
   var minNGramLength = 1;
-  var maxNGramLength = 4;
+  var maxNGramLength = 2;
   // The word length of phrases to be checked.
   // For example if minNGramLength is 1 and maxNGramLength is 3, 
   // phrases made of 1, 2 and 3 words will be checked.
